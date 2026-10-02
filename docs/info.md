@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+when it starts to run, it will be showing an unique pattern of rings moving to the center ring.
 
 ## How to test
-
-Explain how to use your project
+you have to run the program
 
 ## External hardware
 
