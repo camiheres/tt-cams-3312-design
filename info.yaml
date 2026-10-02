@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-  project:      "cam"
+project:      
   title:        "3312"      # Project title
   author:       "CAMILA"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
@@ -22,7 +22,7 @@
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
-  pinout:
+pinout:
   # Inputs
   ui[0]: ""
   ui[1]: ""
