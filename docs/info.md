@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-when it starts to run, it will be showing an unique pattern of rings moving to the center ring.
+when it starts to run, it will be showing an unique pattern of rings moving to the center ring
 
 ## How to test
 you have to run the program
