@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_camiheres_CAMILA (
+  tt_um_camiheres_CAMILA (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
